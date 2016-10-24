@@ -1,8 +1,8 @@
-## countdown
+# countdown
 
 Modeled after the popular British TV game show "Countdown", this little page lets you run your own Countdown game.
 
-# instructions
+## instructions
 
 Click inside the light blue box at the bottom to activate the letter board. It should get a blue highlight around it in Chrome. Here are the possible commands:
 
